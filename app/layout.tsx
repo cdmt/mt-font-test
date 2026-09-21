@@ -5,7 +5,8 @@ import localFont from 'next/font/local'
 
 // Define the variable font
 const myFulieFont = localFont({
-	src: './font/FuileVF.woff2',
+	// src: './font/FuileVF.woff2',
+	src: './font/test-geograph-vf-roman.woff2',
 	display: 'swap',
 	variable: '--fulie',
 })

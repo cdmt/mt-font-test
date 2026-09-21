@@ -1,0 +1,25 @@
+/* [project]/app/myfuliefont_edacda04.module.css [app-client] (css) */
+@font-face {
+  font-family: myFulieFont;
+  src: url("../media/test_geograph_vf_roman-s.p.3imm37shq4g0t.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: myFulieFont Fallback;
+  src: local(Arial);
+  ascent-override: 98.35%;
+  descent-override: 28.14%;
+  line-gap-override: 0.0%;
+  size-adjust: 104.83%;
+}
+
+.myfuliefont_edacda04-module__3Tun9a__className {
+  font-family: myFulieFont, myFulieFont Fallback;
+}
+
+.myfuliefont_edacda04-module__3Tun9a__variable {
+  --fulie: "myFulieFont", "myFulieFont Fallback";
+}
+
+/*# sourceMappingURL=app_myfuliefont_edacda04_module_css_1igg3k2._.single.css.map*/
