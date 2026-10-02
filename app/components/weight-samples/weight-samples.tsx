@@ -10,6 +10,9 @@ export function WeightSamples() {
                     <p className="font-size-20">
                         The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’.
                     </p>
+                    <p className="font-size-20">
+                        The quick brown fox jumps over the lazy dog                    
+                    </p>
                     <p>
                         The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches.
                     </p>
@@ -48,6 +51,9 @@ export function WeightSamples() {
                     </p>
                     <p className="font-size-20">
                         The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’.
+                    </p>
+                    <p className="font-size-20">
+                        The quick brown fox jumps over the lazy dog                    
                     </p>
                     <p>
                         The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches.
@@ -88,6 +94,9 @@ export function WeightSamples() {
                     <p className="font-size-20">
                         The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’.
                     </p>
+                    <p className="font-size-20">
+                        The quick brown fox jumps over the lazy dog                    
+                    </p>
                     <p>
                         The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches.
                     </p>
@@ -126,6 +135,9 @@ export function WeightSamples() {
                     </p>
                     <p className="font-size-20">
                         The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’.
+                    </p>
+                    <p className="font-size-20">
+                        The quick brown fox jumps over the lazy dog                    
                     </p>
                     <p>
                         The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches.
@@ -166,6 +178,9 @@ export function WeightSamples() {
                     <p className="font-size-20">
                         The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’.
                     </p>
+                    <p className="font-size-20">
+                        The quick brown fox jumps over the lazy dog                    
+                    </p>
                     <p>
                         The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches.
                     </p>
@@ -204,6 +219,9 @@ export function WeightSamples() {
                     </p>
                     <p className="font-size-20">
                         The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’.
+                    </p>
+                    <p className="font-size-20">
+                        The quick brown fox jumps over the lazy dog                    
                     </p>
                     <p>
                         The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches.
