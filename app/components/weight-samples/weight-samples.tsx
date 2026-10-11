@@ -278,9 +278,70 @@ export function WeightSamples() {
                     The quick brown fox jumps over the lazy dog                    
                 </p>
             </div>
+            <div>
+                -
+            </div>
+            <div className="font-extralight">
+               <p className="font-size-30">
+                    abcdefghijklmnopqrstuvwxyz                   
+                </p>
+                <p className="font-size-30">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
+                </p>
+            </div>
+            <div>
+                -
+            </div>
+            <div className="font-light">
+                <p className="font-size-30">
+                    abcdefghijklmnopqrstuvwxyz                   
+                </p>
+                <p className="font-size-30">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
+                </p>
+            </div>
+            <div>
+                -
+            </div>
+            <div className="font-regular">
+                <p className="font-size-30">
+                    abcdefghijklmnopqrstuvwxyz                   
+                </p>
+                <p className="font-size-30">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
+                </p>
+            </div>
+            <div>
+                -
+            </div>
+            <div className="font-medium">
+                <p className="font-size-30">
+                    abcdefghijklmnopqrstuvwxyz                   
+                </p>
+                <p className="font-size-30">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
+                </p>
+            </div>
+            <div>
+                -
+            </div>
+            <div className="font-bold">
+                <p className="font-size-30">
+                    abcdefghijklmnopqrstuvwxyz                   
+                </p>
+                <p className="font-size-30">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
+                </p>
+            </div>
+            <div>
+                -
+            </div>
             <div className="font-extrabold">
                 <p className="font-size-30">
-                    The quick brown fox jumps over the lazy dog                    
+                    abcdefghijklmnopqrstuvwxyz                   
+                </p>
+                <p className="font-size-30">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
                 </p>
             </div>
         </>
