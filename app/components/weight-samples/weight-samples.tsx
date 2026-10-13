@@ -36,9 +36,48 @@ export function WeightSamples() {
                         The quick brown fox jumps over the lazy dog
                     </p>
                     <p>
+                        20px
+                    </p>
+                    <p className="font-size-20">
                         ABCEFGHIJKLMNOPQRSTUVWXYZ
                     </p>
+                    <p className="font-size-20">
+                        abcdefghijklmnopqrstuvwxyz
+                    </p>
                     <p>
+                        19px
+                    </p>
+                    <p className="font-size-19">
+                        ABCEFGHIJKLMNOPQRSTUVWXYZ
+                    </p>
+                    <p className="font-size-19">
+                        abcdefghijklmnopqrstuvwxyz
+                    </p>
+                    <p>
+                        18px
+                    </p>
+                    <p className="font-size-18">
+                        ABCEFGHIJKLMNOPQRSTUVWXYZ
+                    </p>
+                    <p className="font-size-18">
+                        abcdefghijklmnopqrstuvwxyz
+                    </p>
+                    <p>
+                        17px
+                    </p>
+                    <p className="font-size-17">
+                        ABCEFGHIJKLMNOPQRSTUVWXYZ
+                    </p>
+                    <p className="font-size-17">
+                        abcdefghijklmnopqrstuvwxyz
+                    </p>
+                    <p>
+                        16px
+                    </p>
+                    <p className="font-size-16">
+                        ABCEFGHIJKLMNOPQRSTUVWXYZ
+                    </p>
+                    <p className="font-size-16">
                         abcdefghijklmnopqrstuvwxyz
                     </p>
                 </div>

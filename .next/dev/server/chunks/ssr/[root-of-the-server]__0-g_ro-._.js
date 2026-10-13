@@ -104,17 +104,118 @@ function WeightSamples() {
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
+                                children: "20px"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
                                 lineNumber: 38,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                children: "abcdefghijklmnopqrstuvwxyz"
+                                className: "font-size-20",
+                                children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
                                 lineNumber: 41,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-20",
+                                children: "abcdefghijklmnopqrstuvwxyz"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 44,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "19px"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 47,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-19",
+                                children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 50,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-19",
+                                children: "abcdefghijklmnopqrstuvwxyz"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 53,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "18px"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 56,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-18",
+                                children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 59,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-18",
+                                children: "abcdefghijklmnopqrstuvwxyz"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 62,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "17px"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 65,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-17",
+                                children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 68,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-17",
+                                children: "abcdefghijklmnopqrstuvwxyz"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 71,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "16px"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 74,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-16",
+                                children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 77,
+                                columnNumber: 21
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-size-16",
+                                children: "abcdefghijklmnopqrstuvwxyz"
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
+                                lineNumber: 80,
                                 columnNumber: 21
                             }, this)
                         ]
@@ -136,7 +237,7 @@ function WeightSamples() {
                         children: "Fulie Light"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 47,
+                        lineNumber: 86,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -146,7 +247,7 @@ function WeightSamples() {
                                 children: "The government has today (17 December 2020) announced a £30 million fund to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 49,
+                                lineNumber: 88,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -154,7 +255,7 @@ function WeightSamples() {
                                 children: "The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 52,
+                                lineNumber: 91,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -162,49 +263,49 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 55,
+                                lineNumber: 94,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 58,
+                                lineNumber: 97,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The steps today will help worried leaseholders who may have faced high costs for interim safety measures by providing financial support and delivering a better, long term fire safety system in their buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 61,
+                                lineNumber: 100,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Some buildings have already installed these systems due to the significant savings this offers, with leaseholders in those buildings, who on average were paying £137 per month for a waking watch, expected to collectively save over £3 million per month."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 64,
+                                lineNumber: 103,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The same research shows the wide range in costs faced by leaseholders and evidence of disproportionate charges – the Housing Secretary Robert Jenrick is writing to Trading Standards asking them to use their powers to investigate."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 67,
+                                lineNumber: 106,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The fund will open in January, but will also provide immediate, emergency support to Wicker Riverside Apartments in Sheffield to ensure that the 35 recently evacuated families should be able to return to their homes before Christmas. chris@moretype.co.uk"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 70,
+                                lineNumber: 109,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 74,
+                                lineNumber: 113,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -212,33 +313,33 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 77,
+                                lineNumber: 116,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 80,
+                                lineNumber: 119,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "abcdefghijklmnopqrstuvwxyz"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 83,
+                                lineNumber: 122,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 48,
+                        lineNumber: 87,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 46,
+                lineNumber: 85,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -248,7 +349,7 @@ function WeightSamples() {
                         children: "Fulie Regular"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 89,
+                        lineNumber: 128,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -258,7 +359,7 @@ function WeightSamples() {
                                 children: "The government has today (17 December 2020) announced a £30 million fund to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 91,
+                                lineNumber: 130,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -266,7 +367,7 @@ function WeightSamples() {
                                 children: "The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 94,
+                                lineNumber: 133,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -274,49 +375,49 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 97,
+                                lineNumber: 136,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 100,
+                                lineNumber: 139,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The steps today will help worried leaseholders who may have faced high costs for interim safety measures by providing financial support and delivering a better, long term fire safety system in their buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 103,
+                                lineNumber: 142,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Some buildings have already installed these systems due to the significant savings this offers, with leaseholders in those buildings, who on average were paying £137 per month for a waking watch, expected to collectively save over £3 million per month."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 106,
+                                lineNumber: 145,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The same research shows the wide range in costs faced by leaseholders and evidence of disproportionate charges – the Housing Secretary Robert Jenrick is writing to Trading Standards asking them to use their powers to investigate."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 109,
+                                lineNumber: 148,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The fund will open in January, but will also provide immediate, emergency support to Wicker Riverside Apartments in Sheffield to ensure that the 35 recently evacuated families should be able to return to their homes before Christmas. chris@moretype.co.uk"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 112,
+                                lineNumber: 151,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 116,
+                                lineNumber: 155,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -324,33 +425,33 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 119,
+                                lineNumber: 158,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 122,
+                                lineNumber: 161,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "abcdefghijklmnopqrstuvwxyz"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 125,
+                                lineNumber: 164,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 90,
+                        lineNumber: 129,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 88,
+                lineNumber: 127,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -360,7 +461,7 @@ function WeightSamples() {
                         children: "Fulie Medium"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 131,
+                        lineNumber: 170,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -370,7 +471,7 @@ function WeightSamples() {
                                 children: "The government has today (17 December 2020) announced a £30 million fund to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 133,
+                                lineNumber: 172,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -378,7 +479,7 @@ function WeightSamples() {
                                 children: "The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 136,
+                                lineNumber: 175,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -386,49 +487,49 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 139,
+                                lineNumber: 178,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 142,
+                                lineNumber: 181,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The steps today will help worried leaseholders who may have faced high costs for interim safety measures by providing financial support and delivering a better, long term fire safety system in their buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 145,
+                                lineNumber: 184,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Some buildings have already installed these systems due to the significant savings this offers, with leaseholders in those buildings, who on average were paying £137 per month for a waking watch, expected to collectively save over £3 million per month."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 148,
+                                lineNumber: 187,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The same research shows the wide range in costs faced by leaseholders and evidence of disproportionate charges – the Housing Secretary Robert Jenrick is writing to Trading Standards asking them to use their powers to investigate."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 151,
+                                lineNumber: 190,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The fund will open in January, but will also provide immediate, emergency support to Wicker Riverside Apartments in Sheffield to ensure that the 35 recently evacuated families should be able to return to their homes before Christmas. chris@moretype.co.uk"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 154,
+                                lineNumber: 193,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 158,
+                                lineNumber: 197,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -436,33 +537,33 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 161,
+                                lineNumber: 200,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 164,
+                                lineNumber: 203,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "abcdefghijklmnopqrstuvwxyz"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 167,
+                                lineNumber: 206,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 132,
+                        lineNumber: 171,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 130,
+                lineNumber: 169,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -472,7 +573,7 @@ function WeightSamples() {
                         children: "Fulie Bold"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 173,
+                        lineNumber: 212,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -482,7 +583,7 @@ function WeightSamples() {
                                 children: "The government has today (17 December 2020) announced a £30 million fund to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 175,
+                                lineNumber: 214,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -490,7 +591,7 @@ function WeightSamples() {
                                 children: "The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 178,
+                                lineNumber: 217,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -498,49 +599,49 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 181,
+                                lineNumber: 220,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 184,
+                                lineNumber: 223,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The steps today will help worried leaseholders who may have faced high costs for interim safety measures by providing financial support and delivering a better, long term fire safety system in their buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 187,
+                                lineNumber: 226,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Some buildings have already installed these systems due to the significant savings this offers, with leaseholders in those buildings, who on average were paying £137 per month for a waking watch, expected to collectively save over £3 million per month."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 190,
+                                lineNumber: 229,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The same research shows the wide range in costs faced by leaseholders and evidence of disproportionate charges – the Housing Secretary Robert Jenrick is writing to Trading Standards asking them to use their powers to investigate."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 193,
+                                lineNumber: 232,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The fund will open in January, but will also provide immediate, emergency support to Wicker Riverside Apartments in Sheffield to ensure that the 35 recently evacuated families should be able to return to their homes before Christmas. chris@moretype.co.uk"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 196,
+                                lineNumber: 235,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 200,
+                                lineNumber: 239,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -548,33 +649,33 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 203,
+                                lineNumber: 242,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 206,
+                                lineNumber: 245,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "abcdefghijklmnopqrstuvwxyz"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 209,
+                                lineNumber: 248,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 174,
+                        lineNumber: 213,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 172,
+                lineNumber: 211,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -584,7 +685,7 @@ function WeightSamples() {
                         children: "Fulie Extra Bold"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 215,
+                        lineNumber: 254,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -594,7 +695,7 @@ function WeightSamples() {
                                 children: "The government has today (17 December 2020) announced a £30 million fund to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 217,
+                                lineNumber: 256,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -602,7 +703,7 @@ function WeightSamples() {
                                 children: "The new Waking Watch Relief Fund will pay for the installation of fire alarm systems in high-rise buildings with cladding, removing or reducing the need for costly interim safety measures such as ‘waking watch’."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 220,
+                                lineNumber: 259,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -610,49 +711,49 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 223,
+                                lineNumber: 262,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The National Fire Chiefs Council have been clear in recent guidance that building owners should move to install common fire alarm systems as quickly as possible to reduce or remove dependence on waking watches."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 226,
+                                lineNumber: 265,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The steps today will help worried leaseholders who may have faced high costs for interim safety measures by providing financial support and delivering a better, long term fire safety system in their buildings."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 229,
+                                lineNumber: 268,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Some buildings have already installed these systems due to the significant savings this offers, with leaseholders in those buildings, who on average were paying £137 per month for a waking watch, expected to collectively save over £3 million per month."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 232,
+                                lineNumber: 271,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The same research shows the wide range in costs faced by leaseholders and evidence of disproportionate charges – the Housing Secretary Robert Jenrick is writing to Trading Standards asking them to use their powers to investigate."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 235,
+                                lineNumber: 274,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The fund will open in January, but will also provide immediate, emergency support to Wicker Riverside Apartments in Sheffield to ensure that the 35 recently evacuated families should be able to return to their homes before Christmas. chris@moretype.co.uk"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 238,
+                                lineNumber: 277,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 242,
+                                lineNumber: 281,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -660,33 +761,33 @@ function WeightSamples() {
                                 children: "The quick brown fox jumps over the lazy dog"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 245,
+                                lineNumber: 284,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "ABCEFGHIJKLMNOPQRSTUVWXYZ"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 248,
+                                lineNumber: 287,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "abcdefghijklmnopqrstuvwxyz"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                                lineNumber: 251,
+                                lineNumber: 290,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 216,
+                        lineNumber: 255,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 214,
+                lineNumber: 253,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -696,12 +797,12 @@ function WeightSamples() {
                     children: "The quick brown fox jumps over the lazy dog"
                 }, void 0, false, {
                     fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                    lineNumber: 257,
+                    lineNumber: 296,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 256,
+                lineNumber: 295,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -711,12 +812,12 @@ function WeightSamples() {
                     children: "The quick brown fox jumps over the lazy dog"
                 }, void 0, false, {
                     fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                    lineNumber: 262,
+                    lineNumber: 301,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 261,
+                lineNumber: 300,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -726,12 +827,12 @@ function WeightSamples() {
                     children: "The quick brown fox jumps over the lazy dog"
                 }, void 0, false, {
                     fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                    lineNumber: 267,
+                    lineNumber: 306,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 266,
+                lineNumber: 305,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -741,12 +842,12 @@ function WeightSamples() {
                     children: "The quick brown fox jumps over the lazy dog"
                 }, void 0, false, {
                     fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                    lineNumber: 272,
+                    lineNumber: 311,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 271,
+                lineNumber: 310,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -756,19 +857,19 @@ function WeightSamples() {
                     children: "The quick brown fox jumps over the lazy dog"
                 }, void 0, false, {
                     fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                    lineNumber: 277,
+                    lineNumber: 316,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 276,
+                lineNumber: 315,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: "-"
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 281,
+                lineNumber: 320,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -779,7 +880,7 @@ function WeightSamples() {
                         children: "abcdefghijklmnopqrstuvwxyz"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 285,
+                        lineNumber: 324,
                         columnNumber: 16
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -787,20 +888,20 @@ function WeightSamples() {
                         children: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 288,
+                        lineNumber: 327,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 284,
+                lineNumber: 323,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: "-"
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 292,
+                lineNumber: 331,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -811,7 +912,7 @@ function WeightSamples() {
                         children: "abcdefghijklmnopqrstuvwxyz"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 296,
+                        lineNumber: 335,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -819,20 +920,20 @@ function WeightSamples() {
                         children: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 299,
+                        lineNumber: 338,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 295,
+                lineNumber: 334,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: "-"
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 303,
+                lineNumber: 342,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -843,7 +944,7 @@ function WeightSamples() {
                         children: "abcdefghijklmnopqrstuvwxyz"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 307,
+                        lineNumber: 346,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -851,20 +952,20 @@ function WeightSamples() {
                         children: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 310,
+                        lineNumber: 349,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 306,
+                lineNumber: 345,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: "-"
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 314,
+                lineNumber: 353,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -875,7 +976,7 @@ function WeightSamples() {
                         children: "abcdefghijklmnopqrstuvwxyz"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 318,
+                        lineNumber: 357,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -883,20 +984,20 @@ function WeightSamples() {
                         children: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 321,
+                        lineNumber: 360,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 317,
+                lineNumber: 356,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: "-"
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 325,
+                lineNumber: 364,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -907,7 +1008,7 @@ function WeightSamples() {
                         children: "abcdefghijklmnopqrstuvwxyz"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 329,
+                        lineNumber: 368,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -915,20 +1016,20 @@ function WeightSamples() {
                         children: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 332,
+                        lineNumber: 371,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 328,
+                lineNumber: 367,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: "-"
             }, void 0, false, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 336,
+                lineNumber: 375,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -939,7 +1040,7 @@ function WeightSamples() {
                         children: "abcdefghijklmnopqrstuvwxyz"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 340,
+                        lineNumber: 379,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -947,13 +1048,13 @@ function WeightSamples() {
                         children: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                     }, void 0, false, {
                         fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                        lineNumber: 343,
+                        lineNumber: 382,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/weight-samples/weight-samples.tsx",
-                lineNumber: 339,
+                lineNumber: 378,
                 columnNumber: 13
             }, this)
         ]

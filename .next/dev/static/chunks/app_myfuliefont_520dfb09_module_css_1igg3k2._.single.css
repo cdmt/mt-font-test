@@ -1,17 +1,17 @@
 /* [project]/app/myfuliefont_520dfb09.module.css [app-client] (css) */
 @font-face {
   font-family: myFulieFont;
-  src: url("../media/FuileVF-s.p.40emmy_hgf3n-.woff2") format("woff2");
+  src: url("../media/FuileVF-s.p.22losspfzwqc6.woff2") format("woff2");
   font-display: swap;
 }
 
 @font-face {
   font-family: myFulieFont Fallback;
   src: local(Arial);
-  ascent-override: 88.01%;
-  descent-override: 24.46%;
+  ascent-override: 88.77%;
+  descent-override: 24.67%;
   line-gap-override: 0.0%;
-  size-adjust: 107.94%;
+  size-adjust: 107.02%;
 }
 
 .myfuliefont_520dfb09-module__piM34q__className {
