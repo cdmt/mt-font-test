@@ -383,6 +383,251 @@ export function WeightSamples() {
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ                  
                 </p>
             </div>
+            <div className="font-extralight">
+                <p>
+                    Extra Light
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-light">
+                <p>
+                    Light
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-regular">
+                <p>
+                    Regular
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-medium">
+                <p>
+                    Medium
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-bold">
+                <p>
+                    Bold
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-extrabold">
+                <p>
+                    Extra Bold
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-test">
+                <p>
+                    Test - 650
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
         </>
     )
 }
