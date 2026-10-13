@@ -206,8 +206,12 @@ body {
   font-variation-settings: "wght" 800;
 }
 
-.font-test {
-  font-variation-settings: "wght" 650;
+.font-test-350 {
+  font-variation-settings: "wght" 350;
+}
+
+.font-test-550 {
+  font-variation-settings: "wght" 550;
 }
 
 .font-size-30 {

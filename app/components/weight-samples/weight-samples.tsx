@@ -593,9 +593,44 @@ export function WeightSamples() {
                     The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
                 </p>
             </div>
-            <div className="font-test">
+            <div className="font-test-350">
                 <p>
-                    Test - 650
+                    Test - 350
+                </p>
+                <p>
+                    20px
+                </p>
+                <p className="font-size-20">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    19px
+                </p>
+                <p className="font-size-19">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    18px
+                </p>
+                <p className="font-size-18">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    17px
+                </p>
+                <p className="font-size-17">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+                <p>
+                    16px
+                </p>
+                <p className="font-size-16">
+                    The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+                </p>
+            </div>
+            <div className="font-test-550">
+                <p>
+                    Test - 550
                 </p>
                 <p>
                     20px
