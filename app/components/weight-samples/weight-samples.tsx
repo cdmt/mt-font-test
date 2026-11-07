@@ -11,13 +11,13 @@ export function WeightSample({ fontName, name }: { fontName: string; name: strin
                         <p>
                             abcdefghijklmnopqrstuvwxyz
                         </p>
-                        <p>
+                        <p className="smallCaps">
                             abcdefghijklmnopqrstuvwxyz                   
                         </p>
                         <p>
                             0123456789
                         </p>
-                        <p>
+                        <p className="oldStyle">
                             0123456789                    
                         </p>
                     </div>

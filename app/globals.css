@@ -57,7 +57,12 @@ nav ul {
     }
     }
 }
-
+.oldStyle{
+    font-variant-numeric: oldstyle-nums;
+}
+.smallCaps {
+    font-variant-caps: small-caps;
+}
 li{
     list-style: none;
 
