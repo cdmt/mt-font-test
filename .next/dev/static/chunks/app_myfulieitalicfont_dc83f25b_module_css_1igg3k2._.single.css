@@ -1,0 +1,26 @@
+/* [project]/app/myfulieitalicfont_dc83f25b.module.css [app-client] (css) */
+@font-face {
+  font-family: myFulieItalicFont;
+  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+}
+
+@font-face {
+  font-family: myFulieItalicFont Fallback;
+  src: local(Arial);
+  ascent-override: 90.21%;
+  descent-override: 25.07%;
+  line-gap-override: 0.0%;
+  size-adjust: 105.31%;
+}
+
+.myfulieitalicfont_dc83f25b-module__4KiS_q__className {
+  font-family: myFulieItalicFont, myFulieItalicFont Fallback;
+}
+
+.myfulieitalicfont_dc83f25b-module__4KiS_q__variable {
+  --fulie-italic: "myFulieItalicFont", "myFulieItalicFont Fallback";
+}
+
+/*# sourceMappingURL=app_myfulieitalicfont_dc83f25b_module_css_1igg3k2._.single.css.map*/

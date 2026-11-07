@@ -1,0 +1,35 @@
+/* [project]/app/myfuliefont_7dd95235.module.css [app-client] (css) */
+@font-face {
+  font-family: myFulieFont;
+  src: url("../media/FulieVF-s.p.1nh_5ltd19k7i.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: myFulieFont;
+  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: myFulieFont Fallback;
+  src: local(Arial);
+  ascent-override: 88.77%;
+  descent-override: 24.67%;
+  line-gap-override: 0.0%;
+  size-adjust: 107.02%;
+}
+
+.myfuliefont_7dd95235-module__cmX3La__className {
+  font-family: myFulieFont, myFulieFont Fallback;
+}
+
+.myfuliefont_7dd95235-module__cmX3La__variable {
+  --fulie: "myFulieFont", "myFulieFont Fallback";
+}
+
+/*# sourceMappingURL=app_myfuliefont_7dd95235_module_css_1igg3k2._.single.css.map*/

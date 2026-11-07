@@ -22,6 +22,12 @@ body {
 .page-wrap[data-font="elian"]{
     font-family: var(--elian), sans-serif;
 }
+.page-wrap[data-font="fulieItalic"]{
+    font-family: var(--fulie-italic), sans-serif;
+}
+.page-wrap[data-font="elianItalic"]{
+    font-family: var(--elian-italic), sans-serif;
+}
 
 .heading{
     font-variation-settings: 'wght' 800, 'opsz' 14;

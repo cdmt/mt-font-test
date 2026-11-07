@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/myfulieitalicfont_dc83f25b.module.css"],"sourcesContent":["@font-face {\n    \nfont-family: 'myFulieItalicFont';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./font/Fulie-ItalicVF.woff2%22,%22preload%22:true,%22has_size_adjust%22:true}') format('woff2');\n    font-display: swap;\n    \nfont-weight: 200 800;\n}\n\n@font-face {\n    font-family: 'myFulieItalicFont Fallback';\n    src: local(\"Arial\");\n    ascent-override: 90.21%;\ndescent-override: 25.07%;\nline-gap-override: 0.00%;\nsize-adjust: 105.31%;\n\n}\n\n.className {\n    font-family: 'myFulieItalicFont', 'myFulieItalicFont Fallback';\n    \n}\n.variable {\n    --fulie-italic: 'myFulieItalicFont', 'myFulieItalicFont Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;AASA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

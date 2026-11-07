@@ -6,7 +6,7 @@ import { WeightSample } from "./components/weight-samples/weight-samples";
 const weights = ['ExtraLight', 'Light', 'Regular', 'Medium', 'Bold', 'ExtraBold']
 
 export default function Home() {
-	const [font, setFont] = useState<"fulie" | "elian">("fulie");
+	const [font, setFont] = useState<"fulie" | "elian" | "fulieItalic" | "elianItalic">("fulie");
 
 	return (
 		<div>
@@ -23,13 +23,28 @@ export default function Home() {
 								Elian
 							</button>
 						</li>
+						<li>
+							<button type="button" aria-pressed={font === "fulieItalic"} onClick={() => setFont("fulieItalic")}>
+								Fulie Italic
+							</button>
+						</li>
+						<li>
+							<button type="button" aria-pressed={font === "elianItalic"} onClick={() => setFont("elianItalic")}>
+								Elian Italic
+							</button>
+						</li>
 					</ul>
 				</nav>
 				{
 					weights.map(weight => (
 						<WeightSample
 							key={weight}
-							fontName={font === "fulie" ? "Fulie" : "Elian"}
+							fontName={
+								font === "fulie" ? "Fulie" :
+								font === "fulieItalic" ? "Fulie Italic" :
+								font === "elianItalic" ? "Elian Italic" :
+								"Elian"
+							}
 							name={weight}
 						/>
 					))

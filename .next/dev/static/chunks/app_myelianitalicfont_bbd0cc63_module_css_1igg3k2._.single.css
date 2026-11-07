@@ -1,0 +1,25 @@
+/* [project]/app/myelianitalicfont_bbd0cc63.module.css [app-client] (css) */
+@font-face {
+  font-family: myElianItalicFont;
+  src: url("../media/Elian_ItalicVF-s.p.3ba7xfhcjwk87.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: myElianItalicFont Fallback;
+  src: local(Arial);
+  ascent-override: 71.63%;
+  descent-override: 23.25%;
+  line-gap-override: 0.0%;
+  size-adjust: 105.4%;
+}
+
+.myelianitalicfont_bbd0cc63-module__o66btq__className {
+  font-family: myElianItalicFont, myElianItalicFont Fallback;
+}
+
+.myelianitalicfont_bbd0cc63-module__o66btq__variable {
+  --elianItalic: "myElianItalicFont", "myElianItalicFont Fallback";
+}
+
+/*# sourceMappingURL=app_myelianitalicfont_bbd0cc63_module_css_1igg3k2._.single.css.map*/

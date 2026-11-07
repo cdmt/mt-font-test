@@ -5,15 +5,35 @@ import localFont from 'next/font/local'
 
 // Define the variable font
 const myFulieFont = localFont({
-	src: './font/FuileVF.woff2',
+	src: [
+		{ path: './font/FulieVF.woff2', weight: '200 800', style: 'normal' },
+		{ path: './font/Fulie-ItalicVF.woff2', weight: '200 800', style: 'italic' },
+	],
 	display: 'swap',
 	variable: '--fulie',
 })
 
 const myElianFont = localFont({
-	src: './font/ElianVF.woff2',
+	src: [
+		{ path: './font/ElianVF.woff2', weight: '200 800', style: 'normal' },
+		{ path: './font/Elian-ItalicVF.woff2', weight: '200 800', style: 'italic' },
+	],
 	display: 'swap',
 	variable: '--elian',
+})
+
+const myFulieItalicFont = localFont({
+	src: './font/Fulie-ItalicVF.woff2',
+	weight: '200 800',
+	display: 'swap',
+	variable: '--fulie-italic',
+})
+
+const myElianItalicFont = localFont({
+	src: './font/Elian-ItalicVF.woff2',
+	weight: '200 800',
+	display: 'swap',
+	variable: '--elian-italic',
 })
 
 const geistSans = Geist({
@@ -35,7 +55,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     return (
         <html
             lang="en"
-            className={`${geistSans.variable} ${geistMono.variable} ${myFulieFont.variable} ${myElianFont.variable} h-full antialiased`}
+            className={`${geistSans.variable} ${geistMono.variable} ${myFulieFont.variable} ${myElianFont.variable} ${myFulieItalicFont.variable} ${myElianItalicFont.variable} h-full antialiased`}
         >
             <body className="min-h-full flex flex-col">{children}</body>
         </html>

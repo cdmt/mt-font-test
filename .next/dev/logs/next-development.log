@@ -1,16 +1,19 @@
-{"timestamp":"00:00:00.351","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:00.996","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:04.739","source":"Server","level":"WARN","message":"⚠ Blocked cross-origin request to Next.js dev resource /_next/hmr from \"192.168.1.102\".\nCross-origin access to Next.js dev resources is blocked by default for safety.\n\nTo allow this host in development, add it to \"allowedDevOrigins\" in next.config.js and restart the dev server:\n\n// next.config.js\nmodule.exports = {\n  allowedDevOrigins: ['192.168.1.102'],\n}\n\nRead more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins"}
-{"timestamp":"00:00:32.130","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:39.774","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:02:26.848","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
-{"timestamp":"01:03:42.412","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
-{"timestamp":"01:04:01.940","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
-{"timestamp":"01:05:35.729","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
-{"timestamp":"01:06:01.125","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
-{"timestamp":"01:06:05.208","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
-{"timestamp":"01:11:12.225","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
-{"timestamp":"01:12:04.392","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
-{"timestamp":"02:13:32.136","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
-{"timestamp":"02:13:39.400","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
-{"timestamp":"02:14:13.589","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:00:00.357","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:03:23.249","source":"Server","level":"LOG","message":"✓ Compiled in 26ms"}
+{"timestamp":"00:03:23.278","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/Elian-ItalicVF.woff2' "}
+{"timestamp":"00:03:23.278","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/Elian-ItalicVF.woff2'\" \"\""}
+{"timestamp":"00:03:23.278","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/ElianVF.woff2' "}
+{"timestamp":"00:03:23.278","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/ElianVF.woff2'\" \"\""}
+{"timestamp":"00:03:23.310","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"00:03:23.311","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/Elian-ItalicVF.woff2' "}
+{"timestamp":"00:03:23.311","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/Elian-ItalicVF.woff2'\" \"\""}
+{"timestamp":"00:03:23.312","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/ElianVF.woff2' "}
+{"timestamp":"00:03:23.312","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/ElianVF.woff2'\" \"\""}
+{"timestamp":"00:03:23.312","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/FuileVF.woff2' "}
+{"timestamp":"00:03:23.312","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/FuileVF.woff2'\" \"\""}
+{"timestamp":"00:03:23.312","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/Fulie-ItalicVF.woff2' "}
+{"timestamp":"00:03:23.312","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/Fulie-ItalicVF.woff2'\" \"\""}
+{"timestamp":"00:03:33.351","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:03:33.355","source":"Browser","level":"ERROR","message":"./app/layout.tsx\nError: Font file not found: Can't resolve './font/FuileVF.woff2' "}
+{"timestamp":"00:03:33.355","source":"Server","level":"ERROR","message":"[browser] \"./app/layout.tsx\\nError: Font file not found: Can't resolve './font/FuileVF.woff2'\" \"\""}
+{"timestamp":"00:11:09.697","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
