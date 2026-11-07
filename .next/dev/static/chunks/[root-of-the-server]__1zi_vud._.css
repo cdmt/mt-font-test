@@ -1,7 +1,7 @@
 /* [project]/app/myfuliefont_520dfb09.module.css [app-client] (css) */
 @font-face {
   font-family: myFulieFont;
-  src: url("../media/FuileVF-s.p.22losspfzwqc6.woff2") format("woff2");
+  src: url("../media/FuileVF-s.p.0yyqpz-3nr9vj.woff2") format("woff2");
   font-display: swap;
 }
 
@@ -178,8 +178,38 @@ body {
   padding-bottom: 10px;
 }
 
+.typeBlock {
+  border-bottom: 1px dotted gray;
+  padding: 20px 0;
+}
+
 .weights {
   font-size: 30px;
+}
+
+.font-upper {
+  text-transform: uppercase;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
 }
 
 .font-extralight {

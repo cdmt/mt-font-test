@@ -6,9 +6,14 @@ import localFont from 'next/font/local'
 // Define the variable font
 const myFulieFont = localFont({
 	src: './font/FuileVF.woff2',
-	// src: './font/test-geograph-vf-roman.woff2',
 	display: 'swap',
 	variable: '--fulie',
+})
+
+const myElianFont = localFont({
+	src: './font/ElianVF.woff2',
+	display: 'swap',
+	variable: '--elian',
 })
 
 const geistSans = Geist({
@@ -30,7 +35,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     return (
         <html
             lang="en"
-            className={`${geistSans.variable} ${geistMono.variable} ${myFulieFont.variable} h-full antialiased`}
+            className={`${geistSans.variable} ${geistMono.variable} ${myFulieFont.variable} ${myElianFont.variable} h-full antialiased`}
         >
             <body className="min-h-full flex flex-col">{children}</body>
         </html>
