@@ -1,0 +1,263 @@
+/* [project]/app/globals.css [app-client] (css) */
+body {
+  font-family: var(--fulie), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizelegibility;
+}
+
+.page-wrap {
+  max-width: 1000px;
+  font-family: var(--fulie), sans-serif;
+  margin: 0 auto;
+}
+
+.page-wrap[data-font="elian"] {
+  font-family: var(--elian), sans-serif;
+}
+
+.page-wrap[data-font="fulieItalic"] {
+  font-family: var(--fulie-italic), sans-serif;
+}
+
+.page-wrap[data-font="elianItalic"] {
+  font-family: var(--elian-italic), sans-serif;
+}
+
+.heading {
+  font-variation-settings: "wght" 800, "opsz" 14;
+  border-bottom: 2px solid gray;
+  padding-bottom: 10px;
+}
+
+.typeBlock {
+  border-bottom: 1px dotted gray;
+  padding: 20px 0;
+}
+
+.weights {
+  font-size: 30px;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li button {
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.oldStyle {
+  font-variant-numeric: oldstyle-nums;
+}
+
+.smallCaps {
+  font-variant-caps: small-caps;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+}
+
+.font-extralight {
+  font-variation-settings: "wght" 200;
+}
+
+.font-light {
+  font-variation-settings: "wght" 300;
+}
+
+.font-regular {
+  font-variation-settings: "wght" 400;
+}
+
+.font-medium {
+  font-variation-settings: "wght" 500;
+}
+
+.font-bold {
+  font-variation-settings: "wght" 700;
+}
+
+.font-extrabold {
+  font-variation-settings: "wght" 800;
+}
+
+.font-test-350 {
+  font-variation-settings: "wght" 350;
+}
+
+.font-test-550 {
+  font-variation-settings: "wght" 550;
+}
+
+.font-size-30 {
+  font-size: 30px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-19 {
+  font-size: 19px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-17 {
+  font-size: 17px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-10 {
+  font-size: 10px;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+/* [project]/app/myfuliefont_7dd95235.module.css [app-client] (css) */
+@font-face {
+  font-family: myFulieFont;
+  src: url("../media/FulieVF-s.p.1nh_5ltd19k7i.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: myFulieFont;
+  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: myFulieFont Fallback;
+  src: local(Arial);
+  ascent-override: 88.77%;
+  descent-override: 24.67%;
+  line-gap-override: 0.0%;
+  size-adjust: 107.02%;
+}
+
+.myfuliefont_7dd95235-module__cmX3La__className {
+  font-family: myFulieFont, myFulieFont Fallback;
+}
+
+.myfuliefont_7dd95235-module__cmX3La__variable {
+  --fulie: "myFulieFont", "myFulieFont Fallback";
+}
+
+/* [project]/app/myelianfont_b3f62c6f.module.css [app-client] (css) */
+@font-face {
+  font-family: myElianFont;
+  src: url("../media/ElianVF-s.p.2zkd_wjzge8qj.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: myElianFont;
+  src: url("../media/Elian_ItalicVF-s.p.3ba7xfhcjwk87.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: myElianFont Fallback;
+  src: local(Arial);
+  ascent-override: 70.36%;
+  descent-override: 22.83%;
+  line-gap-override: 0.0%;
+  size-adjust: 107.31%;
+}
+
+.myelianfont_b3f62c6f-module__PiCOJq__className {
+  font-family: myElianFont, myElianFont Fallback;
+}
+
+.myelianfont_b3f62c6f-module__PiCOJq__variable {
+  --elian: "myElianFont", "myElianFont Fallback";
+}
+
+/* [project]/app/myfulieitalicfont_dc83f25b.module.css [app-client] (css) */
+@font-face {
+  font-family: myFulieItalicFont;
+  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+}
+
+@font-face {
+  font-family: myFulieItalicFont Fallback;
+  src: local(Arial);
+  ascent-override: 90.21%;
+  descent-override: 25.07%;
+  line-gap-override: 0.0%;
+  size-adjust: 105.31%;
+}
+
+.myfulieitalicfont_dc83f25b-module__4KiS_q__className {
+  font-family: myFulieItalicFont, myFulieItalicFont Fallback;
+}
+
+.myfulieitalicfont_dc83f25b-module__4KiS_q__variable {
+  --fulie-italic: "myFulieItalicFont", "myFulieItalicFont Fallback";
+}
+
+/* [project]/app/myelianitalicfont_59fce348.module.css [app-client] (css) */
+@font-face {
+  font-family: myElianItalicFont;
+  src: url("../media/Elian_ItalicVF-s.p.3ba7xfhcjwk87.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+}
+
+@font-face {
+  font-family: myElianItalicFont Fallback;
+  src: local(Arial);
+  ascent-override: 71.63%;
+  descent-override: 23.25%;
+  line-gap-override: 0.0%;
+  size-adjust: 105.4%;
+}
+
+.myelianitalicfont_59fce348-module__Ukg2Mq__className {
+  font-family: myElianItalicFont, myElianItalicFont Fallback;
+}
+
+.myelianitalicfont_59fce348-module__Ukg2Mq__variable {
+  --elian-italic: "myElianItalicFont", "myElianItalicFont Fallback";
+}
+
+/*# sourceMappingURL=app_1dqp9_2._.css.map*/
