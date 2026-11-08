@@ -12,28 +12,21 @@ export default function Home() {
 		<div>
 			<section className="page-wrap" data-font={font}>
 				<nav>
-					<ul className="font-size-20">
-						<li>
-							<button type="button" aria-pressed={font === "fulie"} onClick={() => setFont("fulie")}>
-								Fulie
-							</button>
-						</li>
-						<li>
-							<button type="button" aria-pressed={font === "elian"} onClick={() => setFont("elian")}>
-								Elian
-							</button>
-						</li>
-						<li>
-							<button type="button" aria-pressed={font === "fulieItalic"} onClick={() => setFont("fulieItalic")}>
-								Fulie Italic
-							</button>
-						</li>
-						<li>
-							<button type="button" aria-pressed={font === "elianItalic"} onClick={() => setFont("elianItalic")}>
-								Elian Italic
-							</button>
-						</li>
-					</ul>
+					<button type="button" aria-pressed={font === "fulie"} onClick={() => setFont("fulie")}>
+						Fulie
+					</button>
+				
+					<button type="button" aria-pressed={font === "elian"} onClick={() => setFont("elian")}>
+						Elian
+					</button>
+				
+					<button type="button" aria-pressed={font === "fulieItalic"} onClick={() => setFont("fulieItalic")}>
+						Fulie Italic
+					</button>
+				
+					<button type="button" aria-pressed={font === "elianItalic"} onClick={() => setFont("elianItalic")}>
+						Elian Italic
+					</button>	
 				</nav>
 				{
 					weights.map(weight => (

@@ -4,7 +4,7 @@ export function WeightSample({ fontName, name }: { fontName: string; name: strin
             <div className={`font-${name.toLowerCase()} typeBlock`}>
                 <h2>{fontName} {name}</h2>
                 <div>
-                    <div className="font-size-30">
+                    <div className="font-size-40 intro-block">
                         <p  className="upper">
                             abcdefghijklmnopqrstuvwxyz
                         </p>
