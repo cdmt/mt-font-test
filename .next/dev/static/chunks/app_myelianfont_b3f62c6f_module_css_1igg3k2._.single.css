@@ -1,7 +1,7 @@
 /* [project]/app/myelianfont_b3f62c6f.module.css [app-client] (css) */
 @font-face {
   font-family: myElianFont;
-  src: url("../media/ElianVF-s.p.2zkd_wjzge8qj.woff2") format("woff2");
+  src: url("../media/ElianVF-s.p.0_gboc_v7tiq4.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
   font-style: normal;
@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: myElianFont;
-  src: url("../media/Elian_ItalicVF-s.p.3ba7xfhcjwk87.woff2") format("woff2");
+  src: url("../media/Elian_ItalicVF-s.p.1ttt6n5srw8s6.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
   font-style: italic;
@@ -18,10 +18,10 @@
 @font-face {
   font-family: myElianFont Fallback;
   src: local(Arial);
-  ascent-override: 70.36%;
-  descent-override: 22.83%;
+  ascent-override: 72.02%;
+  descent-override: 23.37%;
   line-gap-override: 0.0%;
-  size-adjust: 107.31%;
+  size-adjust: 104.83%;
 }
 
 .myelianfont_b3f62c6f-module__PiCOJq__className {
