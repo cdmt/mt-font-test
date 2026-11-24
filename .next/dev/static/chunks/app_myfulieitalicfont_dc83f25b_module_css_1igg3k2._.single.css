@@ -1,7 +1,7 @@
 /* [project]/app/myfulieitalicfont_dc83f25b.module.css [app-client] (css) */
 @font-face {
   font-family: myFulieItalicFont;
-  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  src: url("../media/Fulie_ItalicVF-s.p.1ow-o4h_49ckf.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
 }
@@ -9,10 +9,10 @@
 @font-face {
   font-family: myFulieItalicFont Fallback;
   src: local(Arial);
-  ascent-override: 90.21%;
-  descent-override: 25.07%;
+  ascent-override: 90.13%;
+  descent-override: 25.05%;
   line-gap-override: 0.0%;
-  size-adjust: 105.31%;
+  size-adjust: 105.41%;
 }
 
 .myfulieitalicfont_dc83f25b-module__4KiS_q__className {

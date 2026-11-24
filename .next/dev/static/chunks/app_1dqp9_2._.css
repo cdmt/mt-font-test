@@ -145,7 +145,7 @@ h2 {
 /* [project]/app/myfuliefont_7dd95235.module.css [app-client] (css) */
 @font-face {
   font-family: myFulieFont;
-  src: url("../media/FulieVF-s.p.1nh_5ltd19k7i.woff2") format("woff2");
+  src: url("../media/FulieVF-s.p.44tkgual8xbow.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
   font-style: normal;
@@ -153,7 +153,7 @@ h2 {
 
 @font-face {
   font-family: myFulieFont;
-  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  src: url("../media/Fulie_ItalicVF-s.p.1ow-o4h_49ckf.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
   font-style: italic;
@@ -162,10 +162,10 @@ h2 {
 @font-face {
   font-family: myFulieFont Fallback;
   src: local(Arial);
-  ascent-override: 88.77%;
-  descent-override: 24.67%;
+  ascent-override: 88.68%;
+  descent-override: 24.64%;
   line-gap-override: 0.0%;
-  size-adjust: 107.02%;
+  size-adjust: 107.12%;
 }
 
 .myfuliefont_7dd95235-module__cmX3La__className {
@@ -179,7 +179,7 @@ h2 {
 /* [project]/app/myelianfont_b3f62c6f.module.css [app-client] (css) */
 @font-face {
   font-family: myElianFont;
-  src: url("../media/ElianVF-s.p.0_gboc_v7tiq4.woff2") format("woff2");
+  src: url("../media/ElianVF-s.p.3r4x0h-fii_-w.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
   font-style: normal;
@@ -187,7 +187,7 @@ h2 {
 
 @font-face {
   font-family: myElianFont;
-  src: url("../media/Elian_ItalicVF-s.p.1ttt6n5srw8s6.woff2") format("woff2");
+  src: url("../media/Elian_ItalicVF-s.p.22rmyxdh1kqu6.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
   font-style: italic;
@@ -196,10 +196,10 @@ h2 {
 @font-face {
   font-family: myElianFont Fallback;
   src: local(Arial);
-  ascent-override: 72.02%;
-  descent-override: 23.37%;
+  ascent-override: 71.74%;
+  descent-override: 23.28%;
   line-gap-override: 0.0%;
-  size-adjust: 104.83%;
+  size-adjust: 105.24%;
 }
 
 .myelianfont_b3f62c6f-module__PiCOJq__className {
@@ -213,7 +213,7 @@ h2 {
 /* [project]/app/myfulieitalicfont_dc83f25b.module.css [app-client] (css) */
 @font-face {
   font-family: myFulieItalicFont;
-  src: url("../media/Fulie_ItalicVF-s.p.2lq37ebxt6jj5.woff2") format("woff2");
+  src: url("../media/Fulie_ItalicVF-s.p.1ow-o4h_49ckf.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
 }
@@ -221,10 +221,10 @@ h2 {
 @font-face {
   font-family: myFulieItalicFont Fallback;
   src: local(Arial);
-  ascent-override: 90.21%;
-  descent-override: 25.07%;
+  ascent-override: 90.13%;
+  descent-override: 25.05%;
   line-gap-override: 0.0%;
-  size-adjust: 105.31%;
+  size-adjust: 105.41%;
 }
 
 .myfulieitalicfont_dc83f25b-module__4KiS_q__className {
@@ -238,7 +238,7 @@ h2 {
 /* [project]/app/myelianitalicfont_59fce348.module.css [app-client] (css) */
 @font-face {
   font-family: myElianItalicFont;
-  src: url("../media/Elian_ItalicVF-s.p.1ttt6n5srw8s6.woff2") format("woff2");
+  src: url("../media/Elian_ItalicVF-s.p.22rmyxdh1kqu6.woff2") format("woff2");
   font-display: swap;
   font-weight: 200 800;
 }
@@ -246,10 +246,10 @@ h2 {
 @font-face {
   font-family: myElianItalicFont Fallback;
   src: local(Arial);
-  ascent-override: 73.36%;
-  descent-override: 23.8%;
+  ascent-override: 72.99%;
+  descent-override: 23.69%;
   line-gap-override: 0.0%;
-  size-adjust: 102.92%;
+  size-adjust: 103.44%;
 }
 
 .myelianitalicfont_59fce348-module__Ukg2Mq__className {
